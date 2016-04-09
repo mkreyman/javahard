@@ -1,3 +1,3 @@
 # javahard
 
-Learning Java and following exercises in "Learn Java the Hard Way" (https://learnjavathehardway.org/).
+Learning Java and following exercises from the "Learn Java the Hard Way" book (https://learnjavathehardway.org/).
